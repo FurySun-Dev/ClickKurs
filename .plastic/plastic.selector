@@ -1,0 +1,4 @@
+repository "Clicker Mud@Fury_Dev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
